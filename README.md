@@ -1,9 +1,12 @@
-<!-- السطر هاد بيعمل أنيميشن كتابة متحرك لاسمك الكامل وخبرتك الفخمة -->
 <p align="center">
-  <img src="https://readme-javascripting-svg.vercel.app/?lines=Hi+there,+I'm+Sohaib+Mohammad!+👋;Full-Stack+Developer+(.NET+%26+React);Passionate+about+Clean+Architecture+%26+AI+🚀&center=true&size=24&color=61DAFB" alt="Typing Animation" />
+  <samp>
+    <h1>👋 Hi there, I'm Sohaib Mohammad</h1>
+    <h3>🚀 Full-Stack Developer | .NET & React</h3>
+    <p>Passionate about Clean Architecture, AI Integration & Building Scalable Apps</p>
+  </samp>
 </p>
 
-<!-- خط فاصل متحرك نيون متناسق -->
+<!-- خط فاصل متحرك نيون متناسق ومستقر -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Software%20Engineering%20Space&fontSize=22&animation=twinkling" width="100%" />
 </p>
@@ -11,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **Full-Stack Developer** specializing in designing and implementing scalable web applications, secure enterprise RESTful APIs, and high-performance real-time systems. My core focus centers on writing clean, maintainable software following industry-standard principles.
+I'm a **Full-Stack Developer** specializing in designing and implementing scalable web applications, secure enterprise RESTful APIs, and high-performance real-time systems[cite: 1]. My core focus centers on writing clean, maintainable software following industry-standard principles[cite: 1].
 
 ---
 
@@ -60,22 +63,22 @@ I'm a **Full-Stack Developer** specializing in designing and implementing scalab
 ## 🚀 Highlighted Projects
 
 ### 💼 [JobPlatform-Backend](https://github.com/sohaibmohammad/Backend_JobPlatform)
-> **AI-Driven Full-Stack Recruitment Platform**
-* 🧠 **AI Integration:** Integrated **Gemini API** for AI-powered CV analysis, generating automated strengths, weaknesses, and personalized learning roadmaps.
-* 🔐 **Advanced Security:** Designed enterprise-grade authentication incorporating **JWT Role-Based Authorization** along with secure **OTP-based email verification**.
-* 🏗️ **Core Patterns:** Enforced decoupled architectures using **Clean Architecture** and strict **Dependency Injection** patterns.
+> **AI-Driven Full-Stack Recruitment Platform**[cite: 1]
+* 🧠 **AI Integration:** Integrated **Gemini API** for AI-powered CV analysis, generating automated strengths, weaknesses, and personalized learning roadmaps[cite: 1].
+* 🔐 **Advanced Security:** Designed enterprise-grade authentication incorporating **JWT Role-Based Authorization** along with secure **OTP-based email verification**[cite: 1].
+* 🏗️ **Core Patterns:** Enforced decoupled architectures using **Clean Architecture** and strict **Dependency Injection** patterns[cite: 1].
 
 ### 🛒 [Ecommerce-Backend](https://github.com/sohaibmohammad/Ecommerce_Backend)
-> **Scalable E-Commerce Platform API**
-* 🛒 **Business Logic:** Fully engineered comprehensive system flows for complete user profiles, product catalogs, shopping carts, and secure order processing pipelines.
-* 🏗️ **Architecture:** Built following strict **Clean Architecture** and **SOLID Principles** to ensure high codebase maintainability.
-* 💾 **Data Layer:** Utilized **Entity Framework Core** for relational database mappings and complex entity tracking.
+> **Scalable E-Commerce Platform API**[cite: 1]
+* 🛒 **Business Logic:** Fully engineered comprehensive system flows for complete user profiles, product catalogs, shopping carts, and secure order processing pipelines[cite: 1].
+* 🏗️ **Architecture:** Built following strict **Clean Architecture** and **SOLID Principles** to ensure high codebase maintainability[cite: 1].
+* 💾 **Data Layer:** Utilized **Entity Framework Core** for relational database mappings and complex entity tracking[cite: 1].
 
 ### 💬 [RealTimeChat-Backend](https://github.com/sohaibmohammad/realTimeChat--Backend)
-> **High-Performance Live Chat System Engine**
-* ⚡ **Concurrency & Live Sync:** Leveraged **SignalR (WebSockets)** to establish instant message delivery channels designed for high-concurrency connections.
-* 📊 **Workflow Tracking:** Engineered state tracking database mechanisms to monitor dynamic message statuses (**Sent, Delivered, Read**).
-* 🛡️ **Patterns:** Applied **Repository Pattern** and locked application endpoints behind secure JWT authentication schemas.
+> **High-Performance Live Chat System Engine**[cite: 1]
+* ⚡ **Concurrency & Live Sync:** Leveraged **SignalR (WebSockets)** to establish instant message delivery channels designed for high-concurrency connections[cite: 1].
+* 📊 **Workflow Tracking:** Engineered state tracking database mechanisms to monitor dynamic message statuses (**Sent, Delivered, Read**)[cite: 1].
+* 🛡️ **Patterns:** Applied **Repository Pattern** and locked application endpoints behind secure JWT authentication schemas[cite: 1].
 
 ---
 
@@ -93,5 +96,5 @@ I'm a **Full-Stack Developer** specializing in designing and implementing scalab
 ---
 
 ## 🤝 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/sohaibalkhaldy](https://linkedin.com/in/sohaibalkhaldy)
-* 📧 **Email:** [suhibalkhaldy@gmail.com](mailto:suhibalkhaldy@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/sohaibalkhaldy](https://linkedin.com/in/sohaibalkhaldy)[cite: 1]
+* 📧 **Email:** [suhibalkhaldy@gmail.com](mailto:suhibalkhaldy@gmail.com)[cite: 1]
