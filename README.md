@@ -1,6 +1,6 @@
 <!-- السطر هاد بيعمل أنيميشن كتابة متحرك لاسمك الكامل وخبرتك الفخمة -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sohaib+Mohammad!+👋;Full-Stack+Developer+(.NET+%26+React);Passionate+about+Clean+Architecture+%26+AI+🚀" alt="Typing Animation" />
+  <img src="https://readme-javascripting-svg.vercel.app/?lines=Hi+there,+I'm+Sohaib+Mohammad!+👋;Full-Stack+Developer+(.NET+%26+React);Passionate+about+Clean+Architecture+%26+AI+🚀&center=true&size=24&color=61DAFB" alt="Typing Animation" />
 </p>
 
 <!-- خط فاصل متحرك نيون متناسق -->
