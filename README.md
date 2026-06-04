@@ -187,8 +187,7 @@ public class Sohaib
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sohaibmohammad&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sohaibmohammad&show_icons=true&theme=tokyonight"/>
 </div>
 
 ---
