@@ -1,100 +1,265 @@
-<p align="center">
-  <samp>
-    <h1>👋 Hi there, I'm Sohaib Mohammad</h1>
-    <h3>🚀 Full-Stack Developer | .NET & React</h3>
-    <p>Passionate about Clean Architecture, AI Integration & Building Scalable Apps</p>
-  </samp>
-</p>
+<div align="center">
 
-<!-- خط فاصل متحرك نيون متناسق ومستقر -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Software%20Engineering%20Space&fontSize=22&animation=twinkling" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=SOHAIB%20MOHAMMAD&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;ASP.NET+Core+%7C+React+Specialist;Clean+Architecture+Enthusiast;Building+Scalable+Systems;AI+Powered+Applications"/>
+
+<img src="https://komarev.com/ghpvc/?username=sohaibmohammad&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
-I'm a **Full-Stack Developer** specializing in designing and implementing scalable web applications, secure enterprise RESTful APIs, and high-performance real-time systems[cite: 1]. My core focus centers on writing clean, maintainable software following industry-standard principles[cite: 1].
+# 👨‍💻 About Me
+
+```yaml
+Name: Sohaib Mohammad
+Location: Amman, Jordan
+Role: Full-Stack Developer
+Backend: ASP.NET Core, C#, EF Core
+Frontend: React, JavaScript, Tailwind CSS
+Architecture: Clean Architecture, SOLID
+Database: SQL Server
+Current Focus:
+  - Distributed Systems
+  - System Design
+  - Advanced .NET
+  - AI Integration
+Goal:
+  - Become a world-class Software Engineer
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🚀 Tech Arsenal
 
-<table>
-  <tr>
-    <td align="center" width="20%"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET%20Core%20%2F%208.0-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" />
-      <img src="https://img.shields.io/badge/ASP.NET%20Core%20WebAPI-512BD4?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/LINQ-%23512BD4.svg?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-      <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Architecture & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/SignalR-🚀-orange?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,tailwind,bootstrap,docker,git,github,mysql,postman,vscode"/>
+
+</div>
 
 ---
 
-## 🚀 Highlighted Projects
+# 🏗️ Software Engineering Principles
 
-### 💼 [JobPlatform-Backend](https://github.com/sohaibmohammad/Backend_JobPlatform)
-> **AI-Driven Full-Stack Recruitment Platform**[cite: 1]
-* 🧠 **AI Integration:** Integrated **Gemini API** for AI-powered CV analysis, generating automated strengths, weaknesses, and personalized learning roadmaps[cite: 1].
-* 🔐 **Advanced Security:** Designed enterprise-grade authentication incorporating **JWT Role-Based Authorization** along with secure **OTP-based email verification**[cite: 1].
-* 🏗️ **Core Patterns:** Enforced decoupled architectures using **Clean Architecture** and strict **Dependency Injection** patterns[cite: 1].
-
-### 🛒 [Ecommerce-Backend](https://github.com/sohaibmohammad/Ecommerce_Backend)
-> **Scalable E-Commerce Platform API**[cite: 1]
-* 🛒 **Business Logic:** Fully engineered comprehensive system flows for complete user profiles, product catalogs, shopping carts, and secure order processing pipelines[cite: 1].
-* 🏗️ **Architecture:** Built following strict **Clean Architecture** and **SOLID Principles** to ensure high codebase maintainability[cite: 1].
-* 💾 **Data Layer:** Utilized **Entity Framework Core** for relational database mappings and complex entity tracking[cite: 1].
-
-### 💬 [RealTimeChat-Backend](https://github.com/sohaibmohammad/realTimeChat--Backend)
-> **High-Performance Live Chat System Engine**[cite: 1]
-* ⚡ **Concurrency & Live Sync:** Leveraged **SignalR (WebSockets)** to establish instant message delivery channels designed for high-concurrency connections[cite: 1].
-* 📊 **Workflow Tracking:** Engineered state tracking database mechanisms to monitor dynamic message statuses (**Sent, Delivered, Read**)[cite: 1].
-* 🛡️ **Patterns:** Applied **Repository Pattern** and locked application endpoints behind secure JWT authentication schemas[cite: 1].
+```text
+✔ SOLID Principles
+✔ Clean Architecture
+✔ Repository Pattern
+✔ Unit Of Work
+✔ CQRS
+✔ Dependency Injection
+✔ RESTful API Design
+✔ JWT Authentication
+✔ Role-Based Authorization
+✔ SignalR
+✔ Docker
+✔ Design Patterns
+```
 
 ---
 
-## 📈 GitHub Stats & Analysis
+# 💼 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaibmohammad&show_icons=true&theme=tokyonight&count_private=true" alt="Sohaib's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibmohammad&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+## 🤖 AI Recruitment Platform
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
+An intelligent recruitment platform integrating AI-powered CV analysis.
+
+Features:
+
+* Gemini AI Integration
+* CV Evaluation
+* Personalized Learning Roadmaps
+* JWT Authentication
+* OTP Verification
+* Role-Based Authorization
+* Clean Architecture
+
+Tech Stack:
+
+```text
+ASP.NET Core
+React
+SQL Server
+Entity Framework Core
+JWT
+Gemini API
+Docker
+```
 
 ---
 
-## 🤝 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/sohaibalkhaldy](https://linkedin.com/in/sohaibalkhaldy)[cite: 1]
-* 📧 **Email:** [suhibalkhaldy@gmail.com](mailto:suhibalkhaldy@gmail.com)[cite: 1]
+## 🛒 Enterprise E-Commerce API
+
+Complete e-commerce backend architecture.
+
+Features:
+
+```text
+Users
+Products
+Categories
+Shopping Cart
+Orders
+Reviews
+Authentication
+Authorization
+```
+
+Architecture:
+
+```text
+Clean Architecture
+Repository Pattern
+Unit Of Work
+Dependency Injection
+```
+
+---
+
+## 💬 Real-Time Chat System
+
+High-performance messaging platform.
+
+Features:
+
+```text
+SignalR WebSockets
+Message Status Tracking
+JWT Security
+Real-Time Notifications
+Online Users Tracking
+```
+
+---
+
+# ⚡ Engineering Mindset
+
+```csharp
+public class Sohaib
+{
+    public string[] Strengths =>
+    [
+        "Problem Solving",
+        "System Design",
+        "Backend Development",
+        "Clean Code",
+        "Fast Learning"
+    ];
+
+    public string[] Values =>
+    [
+        "Maintainability",
+        "Scalability",
+        "Performance",
+        "Security"
+    ];
+
+    public string Mission =>
+        "Build software that scales and lasts.";
+}
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sohaibmohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibmohammad&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sohaibmohammad&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibmohammad&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📚 Current Learning Path
+
+```text
+Advanced ASP.NET Core
+Microservices
+System Design
+Docker & Kubernetes
+Distributed Systems
+Cloud Architecture
+AI Integration
+```
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[ ] Master Advanced .NET
+[ ] Master React Ecosystem
+[ ] Learn Kubernetes
+[ ] Build SaaS Product
+[ ] Reach Senior Level
+[ ] Contribute to Open Source
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sohaibalkhaldy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:suhibalkhaldy@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sohaibmohammad">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building Scalable Software, One Commit At A Time
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
