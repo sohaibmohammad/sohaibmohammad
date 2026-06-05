@@ -1,70 +1,80 @@
-# <div align="center">⚡ SOHAIB MOHAMMAD</div>
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=SOHAIB%20MOHAMMAD&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:161B22,100:58A6FF&text=SOHAIB%20MOHAMMAD&fontColor=FFFFFF&fontSize=65&fontAlignY=35&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;ASP.NET+Core+%7C+React;Building+Scalable+Systems;Clean+Architecture+Advocate;Future+Senior+Engineer"/>
+# ⚡ SOFTWARE ENGINEER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=ASP.NET+Core+Engineer;React+Developer;System+Design+Enthusiast;Clean+Architecture+Advocate;Building+Scalable+Software"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sohaibmohammad&label=Profile+Views&style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/followers/sohaibmohammad?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sohaibmohammad?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 WHO AM I
 
 ```yaml
 Name: Sohaib Mohammad
 
-Location: Amman, Jordan
-
 Role: Software Engineer
+
+Location: Jordan 🇯🇴
 
 Specialization:
   - ASP.NET Core
   - React
-  - Clean Architecture
+  - SQL Server
+  - Docker
+
+Currently Learning:
   - System Design
+  - Distributed Systems
+  - Kubernetes
+  - Cloud Architecture
 
 Mission:
-  Build software that scales,
-  survives change,
-  and creates business value.
-
-Current Focus:
-  - Advanced .NET
-  - Distributed Systems
-  - Docker & Kubernetes
-  - Cloud Architecture
-  - AI Integration
+  Build scalable systems
+  solve real-world problems
+  become a world-class engineer
 ```
 
 ---
 
-# ⚡ Engineering Philosophy
+# 🧠 ENGINEERING MINDSET
 
 ```csharp
-public class EngineeringPhilosophy
+public class Sohaib
 {
-    public string Architecture =>
-        "Build for change.";
-
-    public string Scalability =>
-        "Design systems that grow.";
-
-    public string Maintainability =>
-        "Write code humans can understand.";
-
-    public string Security =>
-        "Secure by default.";
-
     public string Mission =>
-        "Create software that survives years, not weeks.";
+        "Build software that scales.";
+
+    public string Architecture =>
+        "Clean, Maintainable, Extensible.";
+
+    public string Goal =>
+        "Become the engineer people trust with critical systems.";
+
+    public string[] Strengths =>
+    [
+        "Problem Solving",
+        "Backend Development",
+        "System Design",
+        "Fast Learning",
+        "Clean Code"
+    ];
 }
 ```
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ TECH STACK
 
 <div align="center">
 
@@ -74,146 +84,101 @@ public class EngineeringPhilosophy
 
 ---
 
-# 🏗 Software Engineering Toolbox
+# 🏗 SOFTWARE ENGINEERING
 
 ```text
 ✔ SOLID Principles
+
 ✔ Clean Architecture
-✔ Dependency Injection
+
 ✔ Repository Pattern
+
 ✔ Unit Of Work
+
 ✔ CQRS
-✔ RESTful APIs
+
+✔ Dependency Injection
+
+✔ REST APIs
+
 ✔ JWT Authentication
-✔ Role-Based Authorization
+
 ✔ SignalR
+
 ✔ Docker
+
 ✔ Design Patterns
+
 ✔ System Design
 ```
 
 ---
 
-# 💼 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ## 🤖 AI Recruitment Platform
 
-An AI-powered recruitment ecosystem designed to automate candidate evaluation and career guidance.
+AI-powered recruitment ecosystem.
 
-Highlights:
+Features:
 
-✔ AI CV Analysis
+✔ CV Analysis
 
-✔ Candidate Scoring
+✔ Candidate Evaluation
 
-✔ Personalized Learning Roadmaps
+✔ Learning Roadmaps
 
 ✔ JWT Authentication
 
 ✔ OTP Verification
 
-✔ Dockerized Deployment
-
 ✔ Clean Architecture
 
-Tech:
-
-```text
-ASP.NET Core
-React
-SQL Server
-Entity Framework Core
-Gemini API
-Docker
-```
+✔ Docker Deployment
 
 ---
 
-## 🛒 Enterprise E-Commerce Platform
+## 🛒 Enterprise E-Commerce
 
-Designed and implemented a scalable e-commerce backend architecture.
-
-Modules:
-
-```text
-Users
-Products
-Categories
-Orders
-Shopping Cart
-Reviews
-Authentication
-Authorization
-```
-
-Engineering Focus:
-
-```text
-Clean Architecture
-Repository Pattern
-Unit Of Work
-Dependency Injection
-Scalability
-Maintainability
-```
-
----
-
-## 💬 Real-Time Chat System
-
-A high-performance real-time communication platform.
+Complete E-Commerce Architecture.
 
 Features:
 
-```text
-SignalR
-WebSockets
-JWT Security
-Real-Time Notifications
-Message Tracking
-Online Presence
-```
+✔ Products
+
+✔ Categories
+
+✔ Orders
+
+✔ Cart
+
+✔ Reviews
+
+✔ Authentication
+
+✔ Authorization
 
 ---
 
-# 📚 What I'm Learning
+## 💬 Real-Time Chat
 
-```text
-├── Advanced ASP.NET Core
-├── Caching Strategies
-├── Docker
-├── Kubernetes
-├── Message Queues
-├── Microservices
-├── Distributed Systems
-└── Cloud Architecture
-```
+High-performance communication platform.
 
----
+Features:
 
-# 🎯 2026 Roadmap
+✔ SignalR
 
-```text
-[ ] Master Advanced .NET
+✔ Real-Time Notifications
 
-[ ] Master System Design
+✔ JWT Security
 
-[ ] Learn Kubernetes
+✔ Online Users Tracking
 
-[ ] Learn Cloud Architecture
-
-[ ] Build SaaS Product
-
-[ ] Reach Senior Engineer Level
-
-[ ] Contribute To Open Source
-
-[ ] Build Production Scale Systems
-```
+✔ Message Delivery Tracking
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -223,31 +188,87 @@ Online Presence
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
 
-# 💡 Why Work With Me
+# 📊 CONTRIBUTION GRAPH
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibmohammad&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT ROADMAP
 
 ```text
-✔ Strong Problem Solver
+ASP.NET Core Advanced
+██████████░░░░░░░░ 60%
 
-✔ Full-Stack Mindset
+React Ecosystem
+███████████░░░░░░░ 70%
 
-✔ Clean Code Advocate
+Docker
+██████████░░░░░░░░ 60%
 
-✔ Focused On Scalability
+System Design
+████████░░░░░░░░░░ 40%
 
-✔ Focused On Maintainability
+Kubernetes
+███░░░░░░░░░░░░░░░ 15%
 
-✔ Fast Learner
-
-✔ Passionate About Software Architecture
-
-✔ Constantly Improving Engineering Skills
+Cloud Architecture
+██░░░░░░░░░░░░░░░░ 10%
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 2026 GOALS
+
+```text
+[ ] Master Advanced .NET
+
+[ ] Master React Ecosystem
+
+[ ] Learn Kubernetes
+
+[ ] Build SaaS Product
+
+[ ] Reach Senior-Level Engineering Skills
+
+[ ] Contribute To Open Source
+
+[ ] Design Production-Scale Systems
+```
+
+---
+
+# 💡 QUOTE
+
+> Great developers write code.
+>
+> Great engineers build systems.
+>
+> Elite engineers build systems that survive change.
+
+---
+
+# 🌐 CONNECT
 
 <div align="center">
 
@@ -269,11 +290,8 @@ Online Presence
 
 <div align="center">
 
-## 🚀 Building Software That Scales
-
-"Great software is not measured by lines of code,
-but by the problems it solves."
+# 🚀 BUILDING SOFTWARE THAT LASTS
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0D1117,50:161B22,100:58A6FF"/>
