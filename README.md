@@ -214,30 +214,6 @@ Features:
 
 ---
 
-# 🎯 CURRENT ROADMAP
-
-```text
-ASP.NET Core Advanced
-██████████░░░░░░░░ 60%
-
-React Ecosystem
-███████████░░░░░░░ 70%
-
-Docker
-██████████░░░░░░░░ 60%
-
-System Design
-████████░░░░░░░░░░ 40%
-
-Kubernetes
-███░░░░░░░░░░░░░░░ 15%
-
-Cloud Architecture
-██░░░░░░░░░░░░░░░░ 10%
-```
-
----
-
 # 🏆 2026 GOALS
 
 ```text
