@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Sohaib Mohammad
-### Software Engineer | Architecting Scalable Solutions
+### Software Engineer  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Jordan-blue?style=for-the-badge&logo=google-maps">
@@ -64,7 +64,7 @@
 ### 📬 Let's Connect
 
 <a href="https://linkedin.com/in/sohaibalkhaldy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:suhibalkhaldy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sohaib.swe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
