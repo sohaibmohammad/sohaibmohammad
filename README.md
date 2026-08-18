@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Location-Jordan-blue?style=for-the-badge&logo=google-maps">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=letsencrypt">
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-007ACC?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Clean%2520Architecture-007ACC?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
 </div>
@@ -27,12 +27,12 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Core** | `C#`, `.NET 8`, `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `LINQ` |
-| **Architecture & Patterns** | `Clean Architecture`, `CQRS`, `Repository Pattern`, `Dependency Injection`, `Microservices` |
-| **Databases & Caching** | `SQL Server`, `PostgreSQL`, `Redis` |
-| **Real-Time & Comms** | `SignalR`, `WebSockets`, `RESTful APIs` |
-| **Frontend** | `React`, `JavaScript (ES6+)`, `Tailwind CSS`, `Vite`, `HTML5/CSS3` |
-| **DevOps & Tools** | `Docker`, `Kubernetes`, `Git`, `GitHub Actions`, `Postman`, `VS Code`, `Visual Studio` |
+| **Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet" height="28" alt="C# / .NET"/> `C#`, `.NET 8`, `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `LINQ` |
+| **Architecture & Patterns** | <img src="https://skillicons.dev/icons?i=cs" height="28" alt="Architecture"/> `Clean Architecture`, `CQRS`, `Repository Pattern`, `Dependency Injection`, `Microservices` |
+| **Databases & Caching** | <img src="https://skillicons.dev/icons?i=mysql,redis" height="28" alt="Databases"/> `SQL Server`, `PostgreSQL`, `Redis` |
+| **Real-Time & Comms** | <img src="https://skillicons.dev/icons?i=postman" height="28" alt="Comms"/> `SignalR`, `WebSockets`, `RESTful APIs` |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite" height="28" alt="Frontend"/> `React`, `JavaScript`, `Tailwind CSS`, `Vite`, `HTML/CSS` |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" height="28" alt="DevOps"/> `Docker`, `Kubernetes`, `Git`, `GitHub Actions`, `VS Code`, `Visual Studio` |
 
 ---
 
@@ -40,9 +40,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **AI Recruitment Platform** | End-to-end intelligent system featuring automated resume analysis integrated with LLM APIs and candidate tracking. | `.NET 8`, `C#`, `SQL Server`, `React`, `OpenAI API` |
-| 💬 **Real-Time Chat Engine** | High-concurrency messaging system featuring dynamic delivery statuses, group messaging, and real-time updates. | `ASP.NET Core`, `SignalR`, `Redis`, `Entity Framework Core` |
-| 🛒 **Enterprise E-Commerce** | Scalable backend architecture engineered to handle complex transaction flows, orders, and secure data handling. | `.NET Core`, `Clean Architecture`, `SQL Server`, `JWT` |
+| 🤖 **AI Recruitment Platform** | End-to-end intelligent system featuring automated resume analysis integrated with LLM APIs and candidate tracking. | <img src="https://skillicons.dev/icons?i=dotnet,react,mysql" height="22" alt="Stack"/> |
+| 💬 **Real-Time Chat Engine** | High-concurrency messaging system featuring dynamic delivery statuses, group messaging, and real-time updates. | <img src="https://skillicons.dev/icons?i=dotnet,redis" height="22" alt="Stack"/> |
+| 🛒 **Enterprise E-Commerce** | Scalable backend architecture engineered to handle complex transaction flows, orders, and secure data handling. | <img src="https://skillicons.dev/icons?i=dotnet,mysql" height="22" alt="Stack"/> |
 
 ---
 
