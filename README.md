@@ -64,7 +64,6 @@
 ### 🎯 2026 Engineering Roadmap
 
 - [ ] Master advanced **Kubernetes Orchestration** and cluster management.
-- [ ] Deep dive into **Cloud-Native Architecture** (AWS/Azure).
 - [ ] Design and launch a production-ready **SaaS Product**.
 - [ ] Active contributions to major **Open Source** backend ecosystems.
 
@@ -80,6 +79,10 @@
 &nbsp;&nbsp;
 <a href="mailto:sohaib.swe@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="tel:+962796095876" target="_blank">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
