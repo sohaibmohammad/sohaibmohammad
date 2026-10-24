@@ -28,7 +28,7 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet" height="28" alt="C# / .NET"/> `C#`, `.NET 8`, `ASP.NET Core`, `Entity Framework Core`, `Dapper`, `LINQ` |
-| **Architecture & Patterns** | <img src="https://skillicons.dev/icons?i=cs" height="28" alt="Architecture"/> `Clean Architecture`, `CQRS`, `Repository Pattern`, `Dependency Injection`, `Microservices` |
+| **Architecture & Patterns** | <img src="https://skillicons.dev/icons?i=cs" height="28" alt="Architecture"/> `Clean Architecture`, `CQRS`, `Repository Pattern`, `Dependency Injection` |
 | **Databases & Caching** | <img src="https://skillicons.dev/icons?i=mysql,redis" height="28" alt="Databases"/> `SQL Server`, `PostgreSQL`, `Redis` |
 | **Real-Time & Comms** | <img src="https://skillicons.dev/icons?i=postman" height="28" alt="Comms"/> `SignalR`, `WebSockets`, `RESTful APIs` |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite" height="28" alt="Frontend"/> `React`, `JavaScript`, `Tailwind CSS`, `Vite`, `HTML/CSS` |
