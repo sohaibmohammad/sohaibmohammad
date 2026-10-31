@@ -41,7 +41,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true" width="98%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true" width="98%" hight="50%"/>
 
 </div>
 
