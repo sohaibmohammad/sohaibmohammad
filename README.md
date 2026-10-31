@@ -40,10 +40,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohaibmohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibmohammad&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%"/>
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true" width="98%"/>
 
