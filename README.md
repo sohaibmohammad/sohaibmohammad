@@ -18,7 +18,6 @@
 > *“Great engineers build systems that scale, endure change, and solve real-world problems.”*
 
 * 🚀 Full-Stack Software Engineer with a heavy focus on **Backend Architecture, Distributed Systems, and High-Performance APIs**.
-* 🛠️ Passionate about writing clean, maintainable code using **Clean Architecture, CQRS, and Domain-Driven Design (DDD)**.
 * 🎯 Always exploring advanced optimization techniques, database tuning, and cloud-native deployments.
 
 ---
@@ -36,15 +35,6 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🤖 **AI Recruitment Platform** | End-to-end intelligent system featuring automated resume analysis integrated with LLM APIs and candidate tracking. | <img src="https://skillicons.dev/icons?i=dotnet,react,mysql" height="22" alt="Stack"/> |
-| 💬 **Real-Time Chat Engine** | High-concurrency messaging system featuring dynamic delivery statuses, group messaging, and real-time updates. | <img src="https://skillicons.dev/icons?i=dotnet,redis" height="22" alt="Stack"/> |
-| 🛒 **Enterprise E-Commerce** | Scalable backend architecture engineered to handle complex transaction flows, orders, and secure data handling. | <img src="https://skillicons.dev/icons?i=dotnet,mysql" height="22" alt="Stack"/> |
-
----
 
 ### 📊 GitHub Analytics & Stats
 
