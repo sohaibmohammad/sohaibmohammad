@@ -38,13 +38,11 @@
 
 ### 📊 GitHub Analytics & Stats
 
+### 📊 GitHub Analytics & Stats
+
 <div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true" width="98%" hight="50%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmohammad&theme=tokyonight&hide_border=true" width="85%" height="150" />
 </div>
-
 ---
 
 
@@ -68,6 +66,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohaibmohammad&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+
