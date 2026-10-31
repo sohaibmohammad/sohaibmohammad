@@ -51,13 +51,6 @@
 
 ---
 
-### 🎯 2026 Engineering Roadmap
-
-- [ ] Master advanced **Kubernetes Orchestration** and cluster management.
-- [ ] Design and launch a production-ready **SaaS Product**.
-- [ ] Active contributions to major **Open Source** backend ecosystems.
-
----
 
 ### 📬 Let's Connect
 
