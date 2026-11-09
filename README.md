@@ -31,7 +31,7 @@
 | **Databases & Caching** | <img src="https://skillicons.dev/icons?i=mysql,redis" height="28" alt="Databases"/> `SQL Server`, `PostgreSQL`, `Redis` |
 | **Real-Time & Comms** | <img src="https://skillicons.dev/icons?i=postman" height="28" alt="Comms"/> `SignalR`, `WebSockets`, `RESTful APIs` |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite" height="28" alt="Frontend"/> `React`, `JavaScript`, `Tailwind CSS`, `Vite`, `HTML/CSS` |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" height="28" alt="DevOps"/> `Docker`, `Kubernetes`, `Git`, `GitHub Actions`, `VS Code`, `Visual Studio` |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" height="28" alt="DevOps"/> `Docker`, `Git`, `GitHub Actions`, `VS Code`, `Visual Studio` |
 
 ---
 
